@@ -84,4 +84,5 @@ flowchart TD
     R --> N
 ```
 
-assistant 就是**模型自己上一轮的回复**。
+1、assistant 就是**模型自己上一轮的回复**。
+2、第一轮的 question 不需要你手动解析，直接交给 LLM
